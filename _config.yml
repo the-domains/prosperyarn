@@ -1,0 +1,14 @@
+layout_spectrum: 0.0917427446693182
+typography_spectrum: 0.02241966687142849
+color:
+  brandStrength: 0.17060486623086035
+  lightness: 0.8026822351384908
+  saturation: 0.24725269339978695
+  rhythmicContrast: 0.9248480664100498
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: ProsperYarn
